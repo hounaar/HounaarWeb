@@ -1,0 +1,5 @@
+[20-Dec-2022 18:47:57 Asia/Tehran] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hounaarc/nigma.hounaar.com/src/php/connection.php on line 2
+[20-Dec-2022 18:47:57 Asia/Tehran] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/hounaarc/nigma.hounaar.com/src/php/account.php on line 6
+[20-Dec-2022 18:47:57 Asia/Tehran] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/hounaarc/nigma.hounaar.com/src/php/account.php on line 7
+[20-Dec-2022 18:47:57 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hounaarc/nigma.hounaar.com/src/php/account.php on line 13
+[20-Dec-2022 18:47:57 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hounaarc/nigma.hounaar.com/src/php/account.php on line 31

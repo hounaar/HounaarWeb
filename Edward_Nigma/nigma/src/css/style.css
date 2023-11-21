@@ -1,0 +1,35 @@
+html body {
+    background-color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.container .row{
+    color: white;
+}
+.container .row .col-md-5 .form-group{
+    border-radius: 20px;
+    border:1px double #1eef37;
+    padding: 30px 30px 30px 30px;
+}
+.container .row .form-group h4{
+    color: #1eef37;
+
+}
+.container .row .form-group .error{
+    color: #721c24;
+    padding: 8px 10px;
+    text-align: center;
+    border-radius: 5px;
+    background: #f8d7da;
+    border: 1px solid #f5c6cb;
+    display: none;
+  }
+
+.container .row .col-lg-5 .question{
+    animation: on 0.5s infinite alternate;
+}
+@keyframes on{
+    from{
+        opacity: 0;
+    }
+}

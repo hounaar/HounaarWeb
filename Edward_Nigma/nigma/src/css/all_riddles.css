@@ -1,0 +1,32 @@
+html body {
+    background-color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#riddle-page{
+    color: #1eef37;
+}
+#riddle-page .riddleme{
+    font-size: 100px;
+}
+.form-group .success{
+    display: none;
+    background-color: #83FFCD;
+    color:#005D37;
+    border: solid 1px #005D37;
+    border-radius:25px;
+    padding: 8px 10px;
+
+}
+.form-group .error{
+    color: #721c24;
+    padding: 8px 10px;
+    text-align: center;
+    border-radius: 25px;
+    background: #f8d7da;
+    border: 1px solid #f5c6cb;
+    display: none;
+  }
+  .form-group .back{
+    display: none;
+  }
